@@ -21,18 +21,12 @@ sec 11 <br/>
 ![image](https://github.com/hidekkk/LabArchitect/assets/165928440/d3a191b2-45c8-44f2-89a0-ee8508a2b1a4)
 ![image](https://github.com/hidekkk/LabArchitect/assets/165928440/a9bb249e-91e8-42b2-ac97-4ad0d2420b30)
 
-ทำให้ได้กราฟออกมาดังนี้ <br/>
-port1 to port1
-
-![image]
-
-port1 to port2
-
-![image]
 
 เมื่อได้รูปกราฟออกมาตามที่ต้องการ จึงนำชิ้นงานที่วาดได้ผ่านsonnet ไปวาดลงEasyEDA เพื่อนำไปสั่งทำเป็นผลงานจริง 
 
-![image]
+![image](https://github.com/hidekkk/LabArchitect/assets/165928440/65e2e795-17a6-4e05-b960-f05ba79e97bc) <br/>
+![image](https://github.com/hidekkk/LabArchitect/assets/165928440/66b4fb6c-17e6-4126-a596-31f8e1b7b5ab) <br/>
+![image](https://github.com/hidekkk/LabArchitect/assets/165928440/464f6ceb-c874-4887-bcee-a78c1be516cf)
 
 
 ภาพการสั่งทำชิ้นงาน
